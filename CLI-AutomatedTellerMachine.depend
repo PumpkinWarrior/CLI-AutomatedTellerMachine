@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1596964977 source:c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\src\balance.cpp
+	"Balance.h"
+
+1596964967 c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\include\balance.h
+
+1596964831 source:c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\src\deposit.cpp
+	"Deposit.h"
+
+1596964831 c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\include\deposit.h
+
+1596965885 source:c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\main.cpp
+	<iostream>
+	"Loading.h"
+
+1596964857 c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\include\customer.h
+
+1596964977 source:c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\src\customer.cpp
+	"Customer.h"
+
+1596965818 c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\include\loading.h
+
+1596965798 source:c:\users\default.desktop-e4gvif1\documents\c++ project\cli-automatedtellermachine\src\loading.cpp
+	"Loading.h"
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<stdlib.h>
+	<chrono>
+	<stdio.h>
+	<thread>
+	<conio.h>
+	<iostream>
+
