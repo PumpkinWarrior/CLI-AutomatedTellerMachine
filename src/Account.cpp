@@ -21,7 +21,7 @@ void Account::setAccountNumber(int accno)
     accNumber = accno;
 }
 
-bool Account::login() //logging verification with predefined credentials
+bool Account::login() //logging     verification with predefined credentials
 {
     int givenAccountNumber = -1;
     int givenPinNumber = -1;

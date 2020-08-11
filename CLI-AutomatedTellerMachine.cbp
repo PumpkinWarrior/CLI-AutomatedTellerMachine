@@ -34,11 +34,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Account.h" />
+		<Unit filename="include/Checkings.h" />
 		<Unit filename="include/Customer.h" />
 		<Unit filename="include/Loading.h" />
+		<Unit filename="include/Savings.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Customer.cpp" />
+		<Unit filename="src/Account.cpp" />
+		<Unit filename="src/Checkings.cpp" />
 		<Unit filename="src/Loading.cpp" />
+		<Unit filename="src/Savings.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
