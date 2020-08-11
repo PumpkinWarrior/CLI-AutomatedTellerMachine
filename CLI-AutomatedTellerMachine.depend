@@ -32,3 +32,52 @@
 	<conio.h>
 	<iostream>
 
+1596966209 source:c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\src\loading.cpp
+	"Loading.h"
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<stdlib.h>
+	<chrono>
+	<stdio.h>
+	<thread>
+	<conio.h>
+	<iostream>
+
+1596965818 c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\include\loading.h
+
+1597117958 source:c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\main.cpp
+	<iostream>
+	"Loading.h"
+	"Checkings.h"
+	"Savings.h"
+	"Account.h"
+
+1596966308 source:c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\src\customer.cpp
+	"Customer.h"
+
+1596966322 c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\include\customer.h
+
+1597117861 source:c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\src\savings.cpp
+	"Savings.h"
+	"iostream"
+
+1597117855 c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\include\savings.h
+	"Account.h"
+
+1597116442 c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\include\account.h
+	<string>
+	"Checkings.h"
+
+1597117448 source:c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\src\account.cpp
+	"Account.h"
+	<string>
+	<iostream>
+	<stdio.h>
+
+1597118028 c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\include\checkings.h
+
+1597115825 source:c:\users\default.desktop-e4gvif1\documents\cli-automatedtellermachine\src\checkings.cpp
+	"Checkings.h"
+	<iostream>
+

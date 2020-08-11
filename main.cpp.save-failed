@@ -45,10 +45,10 @@ int main()
     {
         accObj.setAccountName("Hemerson", "Ramiro"); // Or whatever predefined name
         string fullName = accObj.getAccountName();
-        printf("\e[1;1H\e[2J");
-        cout << "\t\t\t\t\t-----------------------------" << endl;
-        cout << "\t\t\t\t\t|    Welcome, " << fullName << "s|" << endl;
-        cout << "\t\t\t\t\t-----------------------------" << endl;
+
+        cout << "-----------------------------" << endl;
+        cout << "|    Welcome, " << fullName << "|" << endl;
+        cout << "-----------------------------" << endl;
     }
     do
     {
